@@ -13,6 +13,7 @@ const settings = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <p>Pagina settings</p>
+      <button onClick={() => setCount(count + 1)}>{count}</button>
       </>
     );
 };

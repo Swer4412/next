@@ -1,9 +1,10 @@
 import React from 'react';
+import HeroUnit from '../component/HeroUnit';
 
 const index = () => {
     return (
         <div>
-            Pagina index charts
+            <HeroUnit/>
         </div>
     );
 };
