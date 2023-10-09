@@ -1,0 +1,92 @@
+[
+    {
+        "title" : "ATTIVAZIONE WINDOWS",
+        "body" : [
+            {
+                "text": "Per attivare windows clicca vai su Impostazioni → Sistema → Attivazione"
+            },
+            {
+                "image" :"/activate-windows-page.png"
+            },
+            {
+                "text" : "Serve un codice product key per attivare windows (licenza digitale, ovvero gratis)"
+            },
+            {
+                "text" : "I codici si trovano sul NAS, nella posizione: \\\\nas\\Laboratorio\\Codici\\Windows11\\Pro."
+            },
+            {
+                "link" : {
+                    "text" : "Come si entra sul nas",
+                    "to" : "altro#ENTRARE SUL NAS"
+                }
+            },
+            {
+                "image" : "/windows-keys.png"
+            },
+            {
+                "text" : "Scegline uno qualunque e copia il codice OEM (Riprova finche funziona)"
+            },
+            {
+                "image" : "/oem-key.png"
+            },
+            {
+                "text" : "Adesso windows è attivato, controlla che ci sia scritto 'Windows 11 Pro' e non 'Windows 11 Pro for workstations' o altro (Riprova finche non vedi 'Windows 11 Pro')"
+            },
+            {
+                "image" : "/windows-active.png"
+            }, 
+            {
+                "link" : {
+                    "text" : "Torna alla guida",
+                    "to" : "BACK"
+                }
+            }
+        ] 
+    },
+    {
+        "title" : "ENTRARE SUL NAS",
+        "body" : [
+            {
+                "text" : "Clicca su Tasto Windows + r (oppure click destro sull icona di windows → Esegui)"
+            },
+            {
+                "image" : "windows-r-backslash.jpg"
+            },
+            {
+                "text" : "Digita: \\\\nas (backslash) → Ok"
+            },
+            {
+                "image" : "/nas.png"
+            },
+            {
+                "link" : {
+                    "text" : "Torna alla guida",
+                    "to" : "BACK"
+                }
+            }
+        ]
+    },
+    {
+        "title" : "TROVA NOME DELLA SCHEDA VIDEO",
+        "body" : [
+            {
+                "text" : "Per trovare il nome della scheda video, digita nella barra di ricerca 'Gestione dispositivi' (oppure, Pannello di controllo → Gestione dispositivi)"
+            },
+            {
+                "image" : "/device-manager-searchbar.png"
+            },
+            {
+                "text" : "Trova la voce Schede video e clicca sulla freccettina accanto per espanderlo"
+            },
+            {
+                "image" : "/graphics-cards.png"
+            },
+            {
+                "link" : {
+                    "text" : "Torna alla guida",
+                    "to" : "BACK"
+                }
+            }
+        ]
+    }
+]

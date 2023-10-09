@@ -1,0 +1,88 @@
+[
+    {
+        "title" : "COMPONENTI DI UN PC",
+        "body" : [
+            {
+                "stitle" : "CPU"
+            },
+            {
+                "text" : "CPU o Central Processin Unit, è il componente più importante del pc, si occupa di tutte le funzioni logiche e di elaborazione principali del computer"
+            },
+            {
+                "image" : "cpu.jpg"
+            },
+            {
+                "stitle" : "RAM"
+            },
+            {
+                "text" : "RAM o Random Access Memory, è un tipo di memoria molto veloce, nella quale vengono copiati (caricati) i programmi che la CPU deve eseguire. Una volta spento il computer, questa memoria perde tutto il suo contenuto"
+            },
+            {
+                "image" : "ram.jpg"
+            },
+            {
+                "stitle" : "SCHEDA MADRE"
+            }, 
+            {
+                "text" : "La scheda madre è la scheda elettronica principale di un pc, contiene tutti i collegamenti per la comunicazione tra i componenti interni (CPU, RAM...) e le interfacce verso le periferiche esterne (Usb per mouse e tastiera)"
+            },
+            {
+                "image" : "motherboard.png"
+            },
+            {
+                "stitle" : "MEMORIA DI MASSA"
+            },
+            {
+                "text" : "Una memoria di massa (o memoria secondaria), è un tipo di memoria che raccoglie tipicamente grandi quantità di dati in maniera non volatile, cioè che permangono anche successivamente allo spegnimento o riavvio della macchina"
+            },
+            {
+                "image" : "ssd.png"
+            },
+            {
+                "image" : "m2.jpg"
+            },
+            {
+                "stitle" : "ALIMENTATORE"
+            },
+            {
+                "text" : "L'alimentatore è il componente che riceve corrente dalla spina e la converte in differenti voltaggi e amperaggi per alimentare i diversi componenti del computer"
+            },
+            {
+                "image" : "psu.jpg"
+            },
+            {
+                "image" : "laptop-psu.jpg"
+            },
+            {
+                "stitle" : "SCHEDA VIDEO"
+            },
+            {
+                "text" : "La scheda video è un componente che si occupa principalmente di generare l'interfaccia, cioè tutto quello che vedi sullo schermo"
+            },
+            {
+                "image" : "gpu.jpg"
+            },
+            {
+                "stitle" : "CASE"
+            },
+            {
+                "text" : "Il case è il contenitore dentro cui sono montati i componenti principali di un computer"
+            },
+            {
+                "image" : "case.jpg"
+            },
+            {
+                "stitle" : "RAFFREDDAMENTO"
+            },
+            {
+                "text" : "Il raffreddamento di un computer può essere di 2 tipi, ad aria o a liquido, il suo scopo principale è quello di raffreddare i componenti più caldi come CPU e Scheda video per fare in modo che l'eccessivo calore non li danneggi"
+            },
+            {
+                "image" : "air-cooler.jpg"
+            },
+            {
+                "image" : "liquid-cooler.jpg"
+            }
+        ]
+    }
+]

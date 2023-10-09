@@ -1,0 +1,653 @@
+[
+    {
+        "title": "PERSONALIZZAZIONE",
+        "body": [
+            {
+                "text": "Se hai seguito la guida passo per passo, adesso dovresti vedere questa schermata"
+            },
+            {
+                "image": "first-desktop.png"
+            },
+            {
+                "text": "Bisonga ora fare diverse modifiche"
+            },
+            {
+                "text": "Per prima cosa trascina sotto le 'icone nascoste' nella barra delle applicazioni in modo che siano visibili"
+            },
+            {
+                "image": "icons-to-bar.png"
+            },
+            {
+                "text": "Dopo di che fai un click destro sulla barra delle applicazioni e clicca su Impostazioni della barra delle applicazioni"
+            },
+            {
+                "image": "bar-customization.png"
+            },
+            {
+                "text": "Qui devi disattivare le spunte blu di Visualizzazione attività, Widget e Chat. Poi clicca su Comportamenti della barra delle applicazioni → a sinistra"
+            },
+            {
+                "image": "app-bar-customized.png"
+            },
+            {
+                "text": "Vai ora su Personalizza (Impostazioni → Personalizza), clicca sullo sfondo a tema Alba, e poi su Colori"
+            },
+            {
+                "image": "theme-and-colors.png"
+            },
+            {
+                "text": "Se windows non è attivato, bisogna attivarlo prima di proseguire"
+            },
+            {
+                "link": {
+                    "text": "Attivazione Windows",
+                    "to": "altro#ATTIVAZIONE WINDOWS"
+                }
+            },
+            {
+                "text": "Scegli la modalità → Personalizzata"
+            },
+            {
+                "text": "Scegli la Modalità predefinita di windows → Scura"
+            },
+            {
+                "image": "custom-dark-light.png"
+            },
+            {
+                "text": "Torna indietro in Personalizzazione, clicca su Temi → Impostazioni delle icone del desktop"
+            },
+            {
+                "image": "custom-themes.png"
+            },
+            {
+                "text": "Seleziona Computer, File dell'utente e Pannello di controllo → Ok"
+            },
+            {
+                "image": "desktop-icons.png"
+            },
+            {
+                "text": "Riordina il desktop come nell immagine sottostante"
+            },
+            {
+                "image": "ordered-desktop.png"
+            }
+        ]
+    },
+    {
+        "title": "PROGRAMMI DI BASE",
+        "body": [
+            
+            {
+                "text": "E' arrivato il momento di installare i programmi di base"
+            },
+            {
+                "link": {
+                    "text": "Come si entra sul nas",
+                    "to": "altro#ENTRARE SUL NAS"
+                }
+            },
+            {
+                "text": "I programmi di base si trovano in \\\\nas\\Laboratorio\\Utility - PC NUOVI (ATTENZIONE nomi e ordine potrebbero essere diversi)"
+            },
+            {
+                "text": "Devi ora installare i seguenti programmi:"
+            },
+            {
+                "list": [
+                    "Installa 7-Zip versione x64",
+                    "Se il pc è DELL: installa il contenuto della cartella DELL",
+                    "Se il pc è HP: installa il contenuto della cartella HP",
+                    "Installa Acrobat, Chrome e dotNetFx"
+                ]
+            },
+            {
+                "image": "utility.png"
+            }
+        ]
+    },
+    {
+        "title": "IMPOSTAZIONI E APP PREDEFINITE",
+        "body": [
+            {
+                "text": "Una volta installato Chrome clicca sui 3 puntini in alto a destra → Impostazioni"
+            },
+            {
+                "image": "chrome-settings.png"
+            },
+            {
+                "text" : "Clicca su aspetto → Mostra pulsante Home, Mostra barra dei preferiti"
+            },
+            {
+                "image" : "chrome-appearance.png"
+            },
+            {
+                "text" : "Mentre Chrome è aperto, fai un click destro sulla sua icona nella barra delle applicazioni → Aggiungi alla barra delle applicazioni"
+            },
+            {
+                "image" : "add-to-appbar.png"
+            },
+            {
+                "text" : "Pui ora chiudere chrome"
+            },
+            {
+                "text" : "Riordina la barra delle applicazioni: Chrome, Edge, Esplora file, Microsoft store"
+            },
+            {
+                "image" : "ordered-appbar.png"
+            },
+            
+            {
+                "text" : "Se hai gia installato sia Acrobat che Chrome, vai in Impostazioni → App → Predefinite"
+            },
+            {
+                "image" : "default-apps.png"
+            },
+            {
+                "text" : "Clicca su Acrobat Reader, dove c'è scritto .pdf, cliccaci sopra e imposta Acrobat Reader come predefinito"
+            },
+            {
+                "image" : "default-acrobat.png"
+            },
+            {
+                "text" : "Torna indietro sulla pagina delle app predefinite e cerca Google Chrome, cliccaci sopra → Imposta predefinito"
+            },
+            {
+                "image" : "default-chrome.png"
+            },
+            {
+                "text": "In esplora file clicca sui 3 puntini → Opzioni ( Se windows 10: Visualizza → Opzioni)"
+            },
+            {
+                "image": "fe-options.png"
+            },
+            {
+                "text": "In 'Apri esplora file per' → Questo PC"
+            },
+            {
+                "text": "In Privacy deselziona i quadratini → Ok"
+            },
+            {
+                "image": "folder-options.png"
+            },
+            {
+                "text" : "Entra nel Pannello di controllo (icona desktop), imposta 'Visualizza per' → Icone grandi"
+            },
+            {
+                "text" : "Clicca su Opzioni risparmio energia"
+            },
+            {
+                "image" : "control-panel-big-icons.png"
+            }
+        ]
+    },
+    {
+        "title" : "OPZIONI RISPARMIO ENERGIA",
+        "body" : [
+            {
+                "stitle" : "LAPTOP"
+            },
+            {
+                "text" : "Se sei su un portatile segui questa guida"
+            },
+            {
+                "text" : "Su quasi tutti i portatili non ci sono altre opzioni oltre Bilanciato, di conseguenza clicca su Specifica comportamento pulsanti di alimentazione"
+            },
+            {
+                "image" : "power-options-laptop.png"
+            },
+            {
+                "list" : [
+                    "Clicca su Modifica le impostazioni attualmente non disponibili",
+                    "Imposta 'Quando viene premuto il pulsante di alimentazione' su Arresta il sistema (sia A batteria, sia Alimentazione da rete elettrica)",
+                    "Imposta 'Quando viene chiuso il coperchio' su Non intervenire (sia A batteria, sia Alimentazione da rete elettrica)",
+                    "Deseleziona 'Attiva avvio rapido'",
+                    "Infine clicca su Salva cambiamenti"
+                ]
+            },
+            {
+                "image" : "system-settings-laptop.png"
+            },
+            {
+                "text" : "Torna indietro e clicca su Modifica impostazioni di sospensione del computer"
+            },
+            {
+                "image" : "stand-by-settings-laptop.jpg"
+            },
+            {
+                "text" : "Seleziona 5 minuti, 15 minuti sotto 'A batteria'"
+            },
+            {
+                "text" : "Seleziona Mai e Mai sotto 'Alimentazione da rete elettrica' → Salva cambiamenti"
+            },
+            {
+                "image" : "stand-by-laptop.jpg"
+            },
+            {
+                "stitle" : "PC FISSO"
+            },
+            {
+                "text" : "Se sei su un pc fisso segui questa guida"
+            },
+            {
+                "text" : "Seleziona la modalità Prestazioni elevate, poi clicca su Specifica comportamento pulsanti di alimentazione"
+            },
+            {
+                "image" : "power-options-pc.png"
+            },
+            {
+                "list" : [
+                    "Clicca su Modifica le impostazioni attualmente non disponibili",
+                    "Deseleziona 'Attiva avvio rapido'",
+                    "Infine clicca su Salva cambiamenti"
+                ]
+            },
+            {
+                "image" : "system-settings-pc.png"
+            },
+            {
+                "text" : "Torna indietro e clicca su Modifica impostazioni di sospensione del computer"
+            },
+            {
+                "image" : "stand-by-settings-pc.jpg"
+            },
+            {
+                "text" : "Seleziona Mai e Mai → Salva cambiamenti"
+            },
+            {
+                "image" : "stand-by-pc.png"
+            },
+            {
+                "text" : "Puoi ora chiudere il Pannello di controllo"
+            }
+        ]
+    },
+    {
+        "title" : "GESTIONE ATTIVITA",
+        "body" : [
+            {
+                "text" : "Apri Gestione attività (click destro sulla barra delle applicazioni → Gestione attività)"
+            },
+            {
+                "image" : "task-manager-appbar.png"
+            },
+            {
+                "text" : "Clicca su App di avvio"
+            }, 
+            {
+                "image" : "boot-apps.png"
+            },
+            {
+                "text" : "Disabilita Microsoft Teams e OneDrive, click destro → Disabilita"
+            },
+            {
+                "image" : "teams-onedrive.png"
+            }
+        ]
+    },
+    {
+        "title" : "ANTIVIRUS",
+        "body" : [
+            {
+                "text" : "Clicca sull'iconcina con lo scudo nella barra delle applicazioni"
+            },
+            {
+                "image" : "windows-defender-icon.png"
+            }, 
+            {
+                "text" : "Ignora tutto tranne Controllo delle app del browser (quest'ultimo attivalo)"
+            },
+            {
+                "image" : "windows-defender-ignore.png"
+            }
+        ]
+    },
+    {
+        "title" : "DRIVER SCHEDA VIDEO",
+        "body" : [
+            {
+                "text" : "Se il tuo pc o laptop ha una scheda video dedicata segui questa guida"
+            },
+            {
+                "text" : "Apri Chrome (Incognito), cerca 'nvidia drivers' e clicca sul primo link"
+            },
+            {
+                "image" : "chrome-nvidia-drivers.png"
+            },
+            {
+                "text" : "Devi ora cercare autonomamente il modello della scheda video in base ai filtri, eccoti alcune dritte"
+            },
+            {
+                "list" : [
+                    "Tipo di prodotto è spesso NVIDIA RTX / Quadro (scheda da lavoro) oppure GeForce (scheda da gioco)",
+                    "Serie del prodotto è spesso 'NVIDIA RTX Series' (se pc) oppure 'NVIDIA RTX Series (Notebooks)' (se laptop)",
+                    "Famglia di prodotti contiene il nome della scheda video (ATTENZIONE trova il nome esatto!)"
+                ]
+            },
+            {
+                "link" : {
+                    "text" : "Nome scheda video",
+                    "to" : "altro#TROVA NOME DELLA SCHEDA VIDEO"
+                }
+            },
+            {
+                "image" : "nvidia-filters.png"
+            },
+            {
+                "text" : "Una volta trovata la scheda video esatta, clicca su Ricerca → Scarica → Download immediato"
+            },
+            {
+                "image" : "immediate-download.png"
+            },
+            {
+                "text" : "Appena ha finito di scaricare il driver, aprilo e clicca su OK"
+            },
+            {
+                "text" : "Clicca su Driver grafico NVIDIA → Accetta e continua"
+            },
+            {
+                "image" : "driver-fp.png"
+            },
+            {
+                "text" : "Clicca su Installazione personalizzata → Avanti"
+            },
+            {
+                "image" : "personalized-install.png"
+            },
+            {
+                "text" : "Seleziona 'Esegui un'installazione pulita' → Avanti"
+            },
+            {
+                "image" : "clean-install.png"
+            },
+            {
+                "text" : "Se lo schermo è diventato tutto nero per più di 1 minuto premi: Tasto Windows + ctrl + shift + B. Se lo schermo rimane nero, chiama il responsabile di laboratorio"
+            },
+            {
+                "text" : "Infine clicca su Chiudi"
+            }
+        ]
+    },
+    {
+        "title" : "AGGIORNAMENTI",
+        "body" : [
+            {
+                "stitle" : "WINDOWS"
+            },
+            {
+                "text" : "Ora bisogna cominciare con gli aggiornamenti"
+            },
+            {
+                "text" : "Vai su Impostazioni → Windows update"
+            },
+            {
+                "text" : "Clicca su Verifica disponibilità aggiornamenti e poi su Opzioni avanzate"
+            },
+            {
+                "image" : "windows-update.png"
+            },
+            {
+                "text" : "Successivamente clicca Aggiornamenti facoltativi e selezionali tutti, infine clicca Scarica e installa"
+            },
+            {
+                "image" : "optional-updates.jpg"
+            },
+            {
+                "stitle" : "MICROSOFT STORE"
+            },
+            {
+                "text" : "Clicca sull'icona di Microsoft Store nella barra delle applicazioni"
+            },
+            {
+                "image" : "microsoft-store-appbar.png"
+            },
+            {
+                "text" : "Clicca su raccolta (in basso a sinistra)"
+            },
+            {
+                "image" : "collection-ms.png"
+            },
+            {
+                "text" : "Infine clicca su Recupera aggiornamenti"
+            },
+            {
+                "image" : "get-updates-ms.png"
+            },
+            {
+                "text" : "Windows update e Microsoft Store possono essere chiusi, gli aggiornamenti verranno installati ugualemnte"
+            }
+        ]
+    },
+    {
+        "title" :"AGGIORNAMENTI IN BASE ALLA MARCA",
+        "body" : [
+            {
+                "text" : "Segui questa guida solo se hai un pc DELL, HP o ASUS altrimenti saltala"
+            },
+            {
+                "stitle" : "DELL"
+            },
+            {
+                "text" : "Cerca nella barra di ricerca 'Dell | Command Update' e aprilo (dovresti averlo installato insieme ai programmi di base)"
+            },
+            {
+                "text" : "Clicca su Controlla aggiornamenti"
+            },
+            {
+                "image" : "dell-check-updates.jpg"
+            },
+            {
+                "text" : "Una volta trovati gli aggiornamenti clicca su Installa (controlla che siano tutti selezionati)"
+            },
+            {
+                "image" : "dell-install-updates.jpg"
+            },
+            {
+                "stitle" : "HP"
+            },
+            {
+                "text" : "Apri Hp support assistant (icona desktop) (dovresti averlo installato insieme ai programmi di base)"
+            },
+            {
+                "text" : "Seleziona la spunta Non visualizzare di nuovo e clicca su Continua come guest"
+            },
+            {
+                "image" : "hpsa-fp.png"
+            },
+            {
+                "text" : "Successivamente clicca su Condividiamo in seguito (questa opzione compare dopo 5 secondi)"
+            },
+            {
+                "image" : "hpsa-wait.png"
+            },
+            {
+                "text" : "Clicca sull'icona Aggiornamenti (oppure icona a sinistra di supporto tecnico → Software e drivers → LiveUpdate) "
+            },
+            {
+                "image" : "hpsa-support.jpg"
+            },
+            {
+                "text" : "Installa tutti gli aggiornamenti proposti"
+            },
+            {
+                "stitle" : "ASUS"
+            },
+            {
+                "text" : "MyASUS è preinstallato. Per aprire MyASUS clicca F12 (oppure cercalo nella barra delle applicazioni)"
+            },
+            {
+                "text" : "Seleziona la spunta Ho più di 16 anni → 'Accetto. Avviare MyASUS' → Avanti"
+            },
+            {
+                "image" : "myasus-fp.png"
+            },
+            {
+                "text" : "Clicca sull'icona Supporto tecnico"
+            },
+            {
+                "image" : "myasus-tecnical-support.png"
+            },
+            {
+                "text" : "Clicca su Live update"
+            },
+            {
+                "image" : "myasus-liveupdate.jpg" 
+            },
+            {
+                "text" : "Installa tutti gli aggiornamenti che vedi, successivamente clicca su latest e installa tutto (solo se sono massimo 3 o 4, altrimenti ignorali)"
+            },
+            {
+                "image"  : "myasus-liveupdate-updates.png"
+            }
+        ]
+    },
+    {
+        "title" : "RIAVVIO E AGGIORNAMENTI",
+        "body" : [
+            {
+                "text" : "Controlla che Windows update, Microsoft Store e qualunque altro installer (dell update, support assistant, myasus) NON STIANO INSTALLANDO NIENTE"
+            },
+            {
+                "text" : "Riavvia il computer in modo che gli aggiornamenti vengano installati"
+            },
+            {
+                "text" : "Una volta riacceso, controlla di nuovo gli aggiornamenti come nello step precedente"
+            },
+            {
+                "link" : {
+                    "text" : "Aggiornamenti",
+                    "to" : "setup#AGGIORNAMENTI"
+                }
+            }
+        ]
+    },
+    {
+        "title" : "MICROSOFT 365",
+        "body" : [
+            {
+                "text" : "Prima di tutto disinstalla office 365 preinstallato"
+            },
+            {
+                "link" : {
+                    "text" : "Disinstalla office",
+                    "to" : "setup#TOCCHI FINALI"
+                }
+            },
+            {
+                "text" : "Microsoft 365 si trova in \\\\nas\\laboratorio\\Office\\365-S"
+            },
+            {
+                "link": {
+                    "text": "Come si entra sul nas",
+                    "to": "altro#ENTRARE SUL NAS"
+                }
+            },
+            {
+                "image" : "office-nas.png"
+            },
+            {
+                "stitle" : "TO BE CONTINUED"
+            }
+        ]
+    },
+    {
+        "title" : "TOCCHI FINALI",
+        "body" : [
+            {
+                "stitle" : "Disinstalla microsoft 365"
+            },
+            {
+                "text" : "Vai su Impostazioni → App → App installate"
+            },
+            {
+                "image" : "installed-apps.png"
+            },
+            {
+                "text" : "Cerca 'Microsoft 365 (Office)', clicca sui 3 puntini a destra → Disinstalla"
+            },
+            {
+                "image" : "uninstall-365.png"
+            },
+            {
+                "stitle" : "Svuota download e cestino"
+            },
+            {
+                "text" : "Vai nella cartella download, seleziona tutto e clicca su elimina"
+            },
+            {
+                "image" : "delete-downloads.png"
+            },
+            {
+                "text" : "Fai un click destro sul cestino → Svuota cestino"
+            },
+            {
+                "image" : "empty-bin.png"
+            },
+            {
+                "stitle" : "Cancella notifiche"
+            },
+            {
+                "text" : "Clicca sul pannello delle notifiche in basso a destra"
+            },
+            {
+                "image" : "notifications-panel.png" 
+            },
+            {
+                "text" : "Clicca su Cancella tutto"
+            },
+            {
+                "image" : "delete-all-notifications.png"
+            },
+            {
+                "stitle" : "Rinomina PC"
+            },
+            {
+                "text" : "Se sei su windows 10, vai su Impostazioni → Informazioni sul sistema e clicca su Rinomina questo PC"
+            },
+            {
+                "image" : "system-informations-rename.png"
+            },
+            {
+                "text" : "Inserisci un nome consono del tipo 'Modello-numero' (es. Vostro-3420), clicca su Successivo → Riavvia in seguito"
+            },
+            {
+                "image" : "renamed-pc.png"
+            },
+            {
+                "stitle" : "Protezione sistema"
+            },
+            {
+                "text" : "Vai su Impostazioni → Sistema → Informazioni sul sistema → Protezione sistema"
+            },
+            {
+                "image" : "system-informations-sys-prot.png"
+            },
+            {
+                "text" : "Clicca su Configura"
+            },
+            {
+                "image" : "system-protection-configure.png"
+            },
+            {
+                "text" : "Seleziona Attiva protezione sistema, porta lo slider circa all 6-8% → Ok"
+            },
+            {
+                "image" : "system-protection-configured.png"
+            },
+            {
+                "text" : "Clicca ora su Crea e scrivi jimmy → Crea"
+            },
+            {
+                "image" : "system-protection-create.png"
+            },
+            {
+                "stitle" : "COMPLIMENTI HAI COMPLETATO LA CONFIGURAZIONE BASE DI UN PC!!"
+            },
+            {
+                "link" :{
+                    "text" : "Torna alla home",
+                    "to" : "/"
+                }
+            }
+        ]
+    }
+]

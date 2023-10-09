@@ -1,0 +1,29 @@
+[
+    {
+        "title" : "PERCHE SI SOVRASCRIVE WINDOWS",
+        "body" : [
+            {
+                "text" : "Windows sui computer nuovi è quasi sempre preinstallato"
+            },
+            {
+                "text" : "Si inserisce la chiavetta e si installa (o per correttezza si sovrascrive) windows per vari motivi"
+            },
+            {
+                "list" :[
+                    "Windows è di una versione che non piace al cliente",
+                    "Windows preinstallato contiene programmi, anti-virus e sfondi personalizzati inutili",
+                    "Installare windows da chiavetta permette di fornire un prodotto standard al cliente"
+                ]
+            },
+            {
+                "image" : "/msi-default-desktop.jpg"
+            },
+            {
+                "link" : {
+                    "text" : "Torna alla guida",
+                    "to" : "BACK"
+                }
+            }
+        ]
+    }
+]

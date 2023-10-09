@@ -1,0 +1,184 @@
+[
+    {
+        "title": "CHIAVETTA E BOOT MENU",
+        "body": [
+            {
+                "text" : "Prendi la chiavetta contenente windows (chiedi al responsabile di laboratorio)"
+            },
+            {
+                "image": "usb-stick.jpeg"
+            },
+            {
+                "text": "Per installare windows bisogna inserire la chiavetta usb nel pc, accenderlo e poi premere RIPETUTAMENTE uno di questi tasti per entrare nel boot menu:"
+            },
+            
+            {
+                "image": "keyboard.jpg"
+            },
+            {
+                "text": "ATTENZIONE! il tasto deve essere cliccato ripetutamente da quando si accende il pc fino a quando viene aperto il boot menù"
+            },
+            {
+                "list": [
+                    "DELL e LENOVO: F12",
+                    "HP: Esc o F9",
+                    "ASUS: mantieni premuto F2 e accendi o F8",
+                    "MSI: F11"
+                ]
+            },
+            {
+                "text" : "Computer come hp e asus non hanno sempre lo stesso bottone per entrare nel boot menu, prova finche non reisci"
+            },
+            {
+                "text" : "Se il pc ha iniziato a caricare windows ma tu non sei mai entrato nel boot menu, clicca sul bottone qui sotto"
+            },
+            {
+                "link" : {
+                    "text" : "Windows è partito senza boot menu",
+                    "to" : "errori#WINDOWS SENZA BOOT MENU"
+                }
+            },
+            {
+                "text": "Una volta entrato nel boot menù (la grafica cambia in base alla marca) seleziona la chiavetta usb "
+            },
+            {
+                "image": "boot-menu.png"
+            }
+        ]
+    },
+    {
+        "title": "INSTALLAZIONE DI WINDOWS",
+        "body": [
+            {
+                "text": "A questo punto ti trovi in una schermata blu, clicca su avanti e poi su installa"
+            },
+            {
+                "image": "win-install.png"
+            },
+            {
+                "text": "Nel caso chieda un product key, clicca su 'Non ho un codice product key' (metterai tale codice successivamente)"
+            },
+            {
+                "image": "product-key.png"
+            },
+            {
+                "text": "Successivamente clicca sulla versione PRO di windows (vale per windows 11 e 10) e poi clicca avanti"
+            },
+            {
+                "image" : "version.png"
+            },
+            {
+                "text" : "In questa schermata viene chiesto il tipo di installazione, clicca su Personalizzata"
+            },
+            {
+                "image" : "install-type.png"
+            },
+            {
+                "text" : "A questo punto vedi molte partizioni, cancellale tutte finche non rimane solo 1 partizione ineliminabile (cancella tutto senza scrupoli, non puoi fare danni!)"
+            },
+            { 
+                "link" : {
+                    "text": "Non trovo nessun disco",
+                    "to" : "errori#DISCO DI INSTALLAZIONE"
+                }
+            }, 
+            {
+                "image" : "partitions.png"
+            },
+            {
+                "text" : "Ora seleziona il disco e clicca su avanti, se ci sono più dischi, chiedi al responsabile di laboratorio su quale installare windows (in generale quello con meno spazio)"
+            },
+            {
+                "image" : "disks.png"
+            },
+            {
+                "text" : "Windows sta venendo installato, questa operazione può impiegare fino a 5 min"
+            },
+            {
+                "image" : "win-installing.png"
+            },
+            {
+                "text" : "Appena il pc viene riavviato, puoi togliere la chiavetta"
+            }
+        ]
+    },
+    {
+        "title": "SETUP WINDOWS",
+        "body": [
+            {
+                "text": "Una volta che windows è stato installato bisongna completare la configurazione di base"
+            },
+            {
+                "image" : "setup-fp.png"
+            },
+            {
+                "text" : "Clicca sul bottone BLU in basso a destra finche non arrivi alla schermata sottostante; a questo punto devi inserire il nome del pc:"
+            },
+            {
+                "list" : [
+                    "Se è un portatile scrivi: Modello-Numero (es. Vostro-3420)",
+                    "Se è un pc fisso preassemblato scrivi: Modello-Numero (es. Precision-3660)",
+                    "Se è un pc fisso assemblato scrivi: 'Pc-Fisso'"
+                ]
+                
+            },
+            {
+                "image" : "pc-name-page.png"
+            },
+            {
+                "text" : "Clicca su Configurazione per uso personale → avanti → accedi"
+            },
+            {
+                "image": "configuration-fp.png"
+            },
+            {
+                "text" : "Bisogna accedere con una mail di microsoft, dato che non si sa quale mail vuole inserire il cliente, inseriamo una mail speciale:"
+            },
+            {
+                "text" : "NO@THANKSYOU.COM"
+            },
+            {
+                "image" : "nothanksyou.png"
+            },
+            {
+                "text" : "Come password di no@thanksyou.com, inserisci una QUALUNQUE PASSWORD con almeno 8 caratteri, una volta comparso questo errore clicca su avanti"
+            },
+            {
+                "image" : "mail-error.png"
+            },
+            {
+                "text" : "Bisonga ora inserire l'utente che userà questo pc e una password:"
+            },
+            {
+                "list" : [
+                    "Nome utente: Utente",
+                    "Password: (non mettere nulla!)"
+                ]
+            },
+            {
+                "text": "Clicca su Successivo per andare avanti"
+            },
+            {
+                "image" : "username.png"
+            },
+            {
+                "text" : "Windows ti chiederà un numero di cose, per tutte queste seleziona la seconda opzione (no / solo obbligatori)"
+            },
+            {
+                "text" : "Per andare avanti clicca su Accetta"
+            },
+            {
+                "image" : "configuration-no.png"
+            },
+            {
+                "text" : "La configurazione è ora finita, aspetta che il pc completi l'installazione"
+            },
+            {
+                "link" : {
+                    "text" : "Vai alla prossima guida",
+                    "to" : "setup"
+                }
+            }
+        ]
+    }
+]
