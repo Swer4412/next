@@ -1,6 +1,6 @@
 import { Html, Head, Main, NextScript } from 'next/document'
 
-export default function Document() { //Ciò che viene messo qui, viene visto in tutte le pagine
+export default function Document() { //Cià che viene messo qui, viene visto in tutte le pagine
   return (
     <Html lang="en">
       <Head>
